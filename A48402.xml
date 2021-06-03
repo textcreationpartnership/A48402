@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Rosamond, King Henry the Seconds concubine And how she was poysoned to death by Queen Elenor.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48402</idno><idno type="EEBO-CITATION">99832992</idno>
+  <idno type="VID">37467</idno>
+  <idno type="EEBO-PROQUEST">2248550950</idno>
+  
+            <idno type="STC">Wing L2009B</idno>
+            <idno type="STC">ESTC R221723</idno>
+            <idno type="PROQUEST">99832992</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832992e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2189:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Rosamond, King Henry the Seconds concubine And how she was poysoned to death by Queen Elenor.</title>
+               </titleStmt>
+               <extent>[24] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1686-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Dates of publication suggested by Wing.</note>
+                  <note>Copy has annotation at foot of title page: Bought at Oxon. 1684.; with print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Clifford, Rosamond, d. 1176? --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37467:1"/>
+            <pb facs="tcp:37467:1"/>
+            <p>The Life and Death of ROSAMOND, King <hi>Henry</hi> the Seconds CONCUBINE.</p>
+            <p>And how she was Poysoned to death by Queen <hi>Elenor.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut</figDesc>
+            </figure>
+            <p>Printed for <hi>W. Thackeray,</hi> and <hi>T. Passinger▪</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:37467:2"/>
+            <pb facs="tcp:37467:2"/>
+            <head>CHAP. I. The Birth, Behaviour, and Linage of Lady <hi>Rosam nd.</hi>
+            </head>
+            <p>THere sprang from that ancient and Noble House of the <hi>Cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffords,</hi> a beauti<g ref="char:EOLhyphen"/>ful Damsel, named <hi>Ro<g ref="char:EOLhyphen"/>samond,</hi> Daughter to the Lord <hi>Walter Cliffords:</hi> Her incomparable Beauty was couched in her Name: she was Natures Master<g ref="char:EOLhyphen"/>piece, and one of the fairest Roses that ever flourished in the Garden of Earth. This fair Lady, as she grew in years, so did she grow in favour, each year adding a moity to her perfection, who having attained some ripeness of years, her Beauty was the whole discourse of the Country &amp; City; Fame did carry the Name of <hi>Rosamond</hi> upon her nimble wings into many forreign places, whereby she was not only the pub<g ref="char:EOLhyphen"/>lique
+<pb facs="tcp:37467:3"/> and common Discourse of our English Nation, but even the Table talk of remote Countries, and forreign people: Her modesty was s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch that she sought by all means to allay that far spread rumor of her Beauty, by a retired Life; but the more she thought to extinguish and quench that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt, by sequestring her self from the eyes of Men, the more <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e was spoken of, and the farther was her praises blown; at length her Name began to bloom in Court, inso<g ref="char:EOLhyphen"/>much that there was scarce any Courtier that did not eccho forth her praises. She was so honoured among the attendants of the King, that whatsoever subject they talk<g ref="char:EOLhyphen"/>ed of, and in what praise soever they delivered it, they thought their discourse not full, ex<g ref="char:EOLhyphen"/>cept the closure of it was still of <hi>Rosamond;</hi> so that <hi>Rosamonds</hi> beauty which was here<g ref="char:EOLhyphen"/>tofore but Chamber-talk in the Court, and was but privately whispered in peoples ears, now began to be noon-talk, and openly spoken of, insomuch that the King took notice of her unseen, though not unheard of Beauty; being desirous to behold that Creature, whose unl mitted and sounded praises the whole world rung of.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb facs="tcp:37467:3"/>
+            <head>CHAP. II. How King <hi>Henry</hi> the Second hearing of <hi>Rosamonds</hi> Beauty, could not rest u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>til he had seen her, and obtained her love.</head>
+            <p>THe Kings unquiet thoughts would not suff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r him to rest, till he had been made an eye witness of <hi>Rosamonds</hi> beauty: after some time passed, he beheld her whole Countenance he had so long desired to see: and casting his eyes upon her incomparable favour, he perceived that those Encomiums which in his hearing had been bestowed on her, were but as the Gloomy Morning to the Lightsom Day, and came as far short of expressing her Comliness, as the sable night doth the glorious Noontide, or the blackish Smoak to the glittering Flame: neither could he be satisfied onely with the view of this beau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iful Creature, but still his boyling breast was vexed with unlawful and lustful thoughts; desiring that there might be some more Familiarity and acquaintance between them: His thoughts slept not long, but many snares were by him laid to intrap her, and many
+<pb facs="tcp:37467:4"/> sorts er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted so parted her unstained purity: many persons did he set at work soliciting her to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ield to his unchast desires: which solicitations were as Darts cast against a brazen Wall, and could not enter: which when the King perceived, the next opportu<g ref="char:EOLhyphen"/>nity that presented her self unto his view, he delivers his mind to her himself, manifest<g ref="char:EOLhyphen"/>ing his love to her, who refusing all denials, and with gracious p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omises and inticing speeches, left her nor till he had gotten her favour, and made her promise to fulfill his will.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. The King hearing Queen <hi>Elenors</hi> Jea<g ref="char:EOLhyphen"/>lousie, builded a Bower for <hi>Rosamond,</hi> in <hi>Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dstock.</hi>
+            </head>
+            <p>AFter the King had for some time en<g ref="char:EOLhyphen"/>joyed the Company of his late-giued Lady, <hi>Elenor</hi> his Queen hearing that her Lord did too too much frequent the company of his loose Damsel, and percei<g ref="char:EOLhyphen"/>ving his affection to be altred, and estranged from her, that was his Lawful Queen, and to be fired on the beauty of another, used all the means that a Womans wit, sharpened with Malice, could invent, to
+<pb facs="tcp:37467:4"/> untye the fast knit hands of their affections: which malice of the Queen towards this Lady, the King soon perceived, and fear<g ref="char:EOLhyphen"/>ing that which afterwards happened, lest his dear Rose should come to any untimely Death, erected for her Labyrinth, wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hin his own Palace at <hi>Woodstock</hi> in <hi>Oxford<g ref="char:EOLhyphen"/>shire,</hi> a place under ground most curiously wrought, having many turnings, windings and broos belonging to it, that it was im<g ref="char:EOLhyphen"/>possible, being once entred, to find the way out of it, without the guidance of a Clew of Thread. The charge of this place wherein this Paramour was inclosed, he committed to Sir <hi>Thomas Vaughn,</hi> Knight, his sure and trusty friend.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IV. While the King was in <hi>France, Rosamond</hi> was Poysoned by Queen <hi>El nor.</hi>
+            </head>
+            <p>ALL this while the Queens malice was kindled, but now it began to shew it self, and break into flames, she had as many Windows and devices in her heart to procure the overthrow and de<g ref="char:EOLhyphen"/>struction of <hi>Rosamond,</hi> as <hi>Woodstocks</hi> Bower for her safety, which Devices are
+<pb facs="tcp:37467:5"/>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+               </figure> all set going; and the better to effect and bring this Plot to pass, she sets the Son against the Father, who by her means and instigation, raised an Army against him, intending to ring the Diadem from his Fathers head. Whilst the King is forced by his Rebellious Son, to hast to <hi>Nor<g ref="char:EOLhyphen"/>manday,</hi> and to ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t himself from the company of his <hi>Rosamond.</hi> His Queen posts to <hi>Woodstock,</hi> and beholding the
+<pb facs="tcp:37467:5"/> Bower wherein <hi>Rosamond</hi> was kept, assay<g ref="char:EOLhyphen"/>ed to enter: and having before-hand recei<g ref="char:EOLhyphen"/>ved some notice of the clew of thread, takes it in her hand, and by its guidance is di<g ref="char:EOLhyphen"/>rected to the center of the Labyrinth, where she found <hi>Rosamond</hi> sitting as the Sun within that little world. Fair <hi>Rosamond</hi> when she beheld the ghastly visage and mea<g ref="char:EOLhyphen"/>gure Countenance of the jealous Queen, confest her fault, and craved pardon for her offences; but all in vain, for nothing could appease her fury, nor quench her thirst, but the blood of <hi>Rosamond,</hi> who was by her in that place deprived of life by a Cup of Poy<g ref="char:EOLhyphen"/>son, for depriving her of the favour of her King. She was buried at <hi>Godstow</hi> in <hi>Oxfordshire,</hi> where she had a stat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Mo<g ref="char:EOLhyphen"/>nument raised▪ with this following Epitaph on it, which was demolished by a certain Bishop of that Diocess not thinking fit so ill a Liver should have so fair a Tomb in so Sacred a place.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:37467:6"/>
+            <head>Her Epitaph.</head>
+            <l>THe Rose of the World,</l>
+            <l>But not the clean Flower,</l>
+            <l>Is here now Graven,</l>
+            <l>To whom Beauty was lent;</l>
+            <l>In this Grave full sure,</l>
+            <l>Now is her Bower,</l>
+            <l>Sweet and Redolent:</l>
+            <l>But now that she is</l>
+            <l>From her Life blent,</l>
+            <l>Though she were sweet,</l>
+            <l>Now fouly doth she stink:</l>
+            <l>A Mirrour good for all</l>
+            <l>That on her think</l>
+         </div>
+         <div type="ditty">
+            <pb facs="tcp:37467:6"/>
+            <head>A Mournful Ditty of the Fair Lady <hi>Rosamond,</hi> KING <hi>Henry</hi> the Seconds Concubine, who was Poysoned to death by Queen <hi>Ele<g ref="char:EOLhyphen"/>nor,</hi> in <hi>Woodstock</hi> Bower, near <hi>Oxford.</hi>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </head>
+            <lg>
+               <l>When as King <hi>Henry</hi> rul'd this Land,</l>
+               <l>the second of that name,</l>
+               <pb facs="tcp:37467:7"/>
+               <l>Besides the Queen he dearly lov'd,</l>
+               <l>a fair and comely dame:</l>
+               <l>Most Peerless was her beauty found,</l>
+               <l>her favour and her face,</l>
+               <l>A sweeter creature in this world,</l>
+               <l>did never P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince imbrace.</l>
+            </lg>
+            <lg>
+               <l>Her crisped Locks like threads of Gold,</l>
+               <l>appear'd to each mans sight,</l>
+               <l>Her comely eyes like orient Pearls,</l>
+               <l>did cast a Heavenly light:</l>
+               <l>The blood within her Cristial cheeks,</l>
+               <l>did such a colour drive,</l>
+               <l>As though the Lilly and the Rose,</l>
+               <l>for mastership did strive.</l>
+            </lg>
+            <lg>
+               <l>Yea <hi>Rosamond,</hi> fair <hi>Rosamond,</hi>
+               </l>
+               <l>her name was called so,</l>
+               <l>To whome dame <hi>Elinor</hi> our Queen,</l>
+               <l>was known a deadly foe,</l>
+               <l>The King therefore for her defence,</l>
+               <l>against the furious Queen,</l>
+               <l>At <hi>Woodstock</hi> builded such a Bower,</l>
+               <l>the like was never seen.</l>
+            </lg>
+            <lg>
+               <l>Most curiously that Bower was built,</l>
+               <l>of Stone and Timber strong,</l>
+               <pb facs="tcp:37467:7"/>
+               <l>A hundred and fifty doors,</l>
+               <l>did to this Bower belong,</l>
+               <l>And they so cunningly contriv'd,</l>
+               <l>wtih turnings round about,</l>
+               <l>That none but with a clew of thread,</l>
+               <l>could enter in or out.</l>
+            </lg>
+            <lg>
+               <l>And for his Love and Ladies sake,</l>
+               <l>that was so fair and bright,</l>
+               <l>The keeping of this Bower he gave,</l>
+               <l>unto a valiant Knight:</l>
+               <l>But Fortune that doth often frown,</l>
+               <l>where it before did smile,</l>
+               <l>The Kings delight, the Ladies joy,</l>
+               <l>full soon she did beguile.</l>
+            </lg>
+            <lg>
+               <l>For why, the Kings ungracious Son,</l>
+               <l>whom he did high advance,</l>
+               <l>Against his Father raised Wars,</l>
+               <l>within the Realm of <hi>France,</hi>
+               </l>
+               <l>But yet before our comely King</l>
+               <l>the <hi>English</hi> Land forsook,</l>
+               <l>Of <hi>Rosamond</hi> his Lady fair,</l>
+               <l>his farewel thus he took.</l>
+            </lg>
+            <lg>
+               <l>My <hi>Rosamond,</hi> my only Rose,</l>
+               <l>that pleasest best mine eye,</l>
+               <pb facs="tcp:37467:8"/>
+               <l>The fairest flower in all the world,</l>
+               <l>to feed my fantasie:</l>
+               <l>The flower of my affected heart,</l>
+               <l>whose sweetness doth excell,</l>
+               <l>My Royal Rose a hundred times,</l>
+               <l>I bid thee now farewell.</l>
+            </lg>
+            <lg>
+               <l>For I must leave my fairest flower;</l>
+               <l>my sweetest Rose a space,</l>
+               <l>And cross the Seas to famous <hi>France,</hi>
+               </l>
+               <l>proud Rebels to abase:</l>
+               <l>But yet my Rose be sure thou shalt</l>
+               <l>my coming shortly see,</l>
+               <l>And in my heart when hence I am,</l>
+               <l>I'le bear my Rose with me.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Rosamond,</hi> that Lady bright,</l>
+               <l>did hear the King say so,</l>
+               <l>The sorrow of her grieved heart,</l>
+               <l>her outward looks did show:</l>
+               <l>And from her clear and cristial eyes,</l>
+               <l>the tears gusht out apace,</l>
+               <l>Which like the silver pearled dew,</l>
+               <l>ran down her comely face.</l>
+            </lg>
+            <lg>
+               <l>Her lips like to the corral red,</l>
+               <l>did wax both wan and pale,</l>
+               <pb facs="tcp:37467:8"/>
+               <l>And for the sorrow she conceiv'd,</l>
+               <l>her vital spirits did fail:</l>
+               <l>And falling down all in a swound,</l>
+               <l>before King <hi>Henries</hi> face,</l>
+               <l>Full oft within his Princely arms,</l>
+               <l>her body did imbrace.</l>
+            </lg>
+            <lg>
+               <l>And twenty times with watery eyes</l>
+               <l>he kist her tender Cheek,</l>
+               <l>Vntil he had reviv'd again,</l>
+               <l>her senses mild and meek:</l>
+               <l>Why grieves my Rose, my sweetest Rose</l>
+               <l>the King did often say,</l>
+               <l>Because quoth she, to bloody wins,</l>
+               <l>my Lord must pass away.</l>
+            </lg>
+            <lg>
+               <l>But since your Grace in forraign coasts</l>
+               <l>amongst your foes unkind,</l>
+               <l>Must go to hazard life and limb,</l>
+               <l>why should I stay behind?</l>
+               <l>Nay rather let me like a Page,</l>
+               <l>thy Sword and Target bear,</l>
+               <l>That on my Breast the blow may light,</l>
+               <l>that should offend you there.</l>
+            </lg>
+            <lg>
+               <l>O let me in your Royal Tent.</l>
+               <l>prepare your bed at night,</l>
+               <pb facs="tcp:37467:9"/>
+               <l>And with sweet baths refresh your grace.</l>
+               <l>at your return from fight,</l>
+               <l>So I your presence may injoy,</l>
+               <l>no toyl I will refuse,</l>
+               <l>But wanting you my life is death,</l>
+               <l>which doth true Love abuse.</l>
+            </lg>
+            <lg>
+               <l>Content thy self my dearest Love,</l>
+               <l>thy rest at home shall be,</l>
+               <l>In <hi>Englands</hi> sweet and pleasant soll,</l>
+               <l>for travel fits not thee:</l>
+               <l>Fair Ladies brook no bloody wars,</l>
+               <l>sweet peace their pleasure breed,</l>
+               <l>The nourisher of hearts content,</l>
+               <l>which fancy first did feed.</l>
+            </lg>
+            <lg>
+               <l>My Rose shall rest in <hi>Woodstoock</hi> Bower</l>
+               <l>with Musick sweetly dight,</l>
+               <l>Whilst I among the piercing Pikes</l>
+               <l>against my foes do fight:</l>
+               <l>My Rose in Robes of Pearl and Gold,</l>
+               <l>with Diamonds richly dight,</l>
+               <l>Shall dance the Galliards of my love,</l>
+               <l>while I my foes do smite.</l>
+            </lg>
+            <lg>
+               <l>And you Sir <hi>Thomas</hi> whom I trust,</l>
+               <l>to be my Loves defence,</l>
+               <pb facs="tcp:37467:9"/>
+               <l>Be careful of my gallant rose,</l>
+               <l>when I am parted hence:</l>
+               <l>And therewithal he fetcht a sigh,</l>
+               <l>as though his heart would break,</l>
+               <l>And <hi>Rosamond</hi> for very grief,</l>
+               <l>not one plain word could speak:</l>
+               <l>
+                  <figure>
+                     <figDesc>woodcut</figDesc>
+                  </figure>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:37467:10"/>
+               <l>And at their parting well they might,</l>
+               <l>in heart be grieved sore,</l>
+               <l>After that day fair <hi>Rosamond,</hi>
+               </l>
+               <l>the King did see no more:</l>
+               <l>For when his Grace was past the Seas,</l>
+               <l>and into <hi>France</hi> was gon,</l>
+               <l>Queen <hi>Elinor</hi> with envious heart,</l>
+               <l>to <hi>Woodstock</hi> came anon.</l>
+            </lg>
+            <lg>
+               <l>And forth she calls this trusty Knight,</l>
+               <l>which kept this curious Bower,</l>
+               <l>Who with his clew of twined thread,</l>
+               <l>came from the famous Flower:</l>
+               <l>And when that they had wounded him,</l>
+               <l>the Queen his Thred did get,</l>
+               <l>And went where Lady <hi>Rosamond,</hi>
+               </l>
+               <l>was like an Angel set.</l>
+            </lg>
+            <lg>
+               <l>But when the Queen with stedfast Eye</l>
+               <l>beheld her heavenly Face,</l>
+               <l>She was amazed in her mind</l>
+               <l>at her exceeding grace.</l>
+               <l>Cast off from thee these Robes (she said)</l>
+               <l>that rich and costly be,</l>
+               <l>And drink thou up this deadly draught,</l>
+               <l>which I have brought to thee.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:37467:10"/>
+               <l>But presently upon her knees,</l>
+               <l>sweet <hi>Rosamond</hi> did fall,</l>
+               <l>And pardon of the Queen she crav'd,</l>
+               <l>for her offences all:</l>
+               <l>Take pitty on my youthful years</l>
+               <l>(fair <hi>Rosamond</hi> did cry)</l>
+               <l>And let me not with poison strong</l>
+               <l>enforced be to die.</l>
+            </lg>
+            <lg>
+               <l>I will renounce my sinful life,</l>
+               <l>and in some Cloyster bide,</l>
+               <l>Or else be banished if you please</l>
+               <l>to range the World so wide,</l>
+               <l>And for the fault that I have done,</l>
+               <l>though I was forc'd thereto,</l>
+               <l>Preserve my life and punish me,</l>
+               <l>as you think good to do.</l>
+            </lg>
+            <lg>
+               <l>And with these words her Lilly hands,</l>
+               <l>she wrung full often there,</l>
+               <l>And down along her comely fare,</l>
+               <l>proceeded many a tear:</l>
+               <l>But nothing could this furious Queen,</l>
+               <l>therewith appeased be,</l>
+               <l>The cup of deadly poyson strong,</l>
+               <l>as she sat on her knee.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:37467:11"/>
+               <l>She gave this comely Dame to drink,</l>
+               <l>who took it in her hand,</l>
+               <l>And from her bended knee arose,</l>
+               <l>and on her feet did stand:</l>
+               <l>And casting up her eyes to heaven,</l>
+               <l>she did for mercy call,</l>
+               <l>And drinking up the poyson strong,</l>
+               <l>her life she lost withal.</l>
+            </lg>
+            <lg>
+               <l>And when that death through every limb,</l>
+               <l>had done her greatest spight,</l>
+               <l>Her chiefest foes did there confess,</l>
+               <l>she was a glorious wight:</l>
+               <l>Her body then they did entomb,</l>
+               <l>when life was fled away,</l>
+               <l>At <hi>Woodstock</hi> near to <hi>Oxford</hi> Town,</l>
+               <l>as may be seen this day.</l>
+            </lg>
+         </div>
+         <div n="5" type="chapter">
+            <pb facs="tcp:37467:11"/>
+            <head>CHAP. V. The Conclusion.<figure>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </head>
+            <p>THus you may see the fickle and un<g ref="char:EOLhyphen"/>constant state of those that are In<g ref="char:EOLhyphen"/>habitants
+<pb facs="tcp:37467:12"/> in this unsettled decayed world, though they are received into the favour of Princes, and are made Companions with them in Nightly Sleeps; yet all this is presently forgotten, and when once their frail and mortal bodies fall upon the earth, all their Pomp and Honour perisheth, and is buried with them. <hi>Rosamond,</hi> she that was so highly exalted in her Princes favor, one small drop of Poyson lays her as low as the Earth, and she that was the onely Flower and Rose to please and delight the smell of a King, in comparison of whom, his rich Pomanders and costly Odors were unsavory; yet now of her remains nothing good, only an ill noysom odour to all Po<g ref="char:EOLhyphen"/>sterity, according unto her Epitaph which was Ingraven on her Tomb at <hi>Godstow,</hi> where she was most sumptuously Interred.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustrations">
+            <pb facs="tcp:37467:12"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:37467:13"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:37467:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
